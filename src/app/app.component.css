@@ -1,0 +1,12 @@
+.form-control.ng-touched.ng-invalid {
+  border: 2px solid red;
+}
+
+.form-control.ng-touched.ng-valid {
+  border: 2px solid green;
+}
+
+.btn {
+  float: left;
+  margin: 10px 0 20px 4px;
+}
